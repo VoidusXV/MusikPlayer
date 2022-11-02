@@ -1,0 +1,30 @@
+- ContextStripMenu Options
+- Custom ScrollBar verbessern
+- Song Searcher coden
+- Settings
+- Playlist mit "No Copyright" Songs
+- "No Copyright" Checker -> Suche nach Artist, Song, Genre, 
+- Für Streamer -> OBS Songs API 
+
+Settings:
+- Customize Colors
+- Sprache ändern
+- 
+
+
+ 
+Napster API:
+
+http://api.napster.com/v2.2/search/verbose?apikey=YTkxZTRhNzAtODdlNy00ZjMzLTg0MWItOTc0NmZmNjU4Yzk4&query=Ice%20Nine%20Kills
+https://api.napster.com/imageserver/v2/albums/alb.330517724/images/300x300.jpg
+https://api.napster.com/imageserver/v2/albums/alb.620371123/images/300x300.jpg
+
+http://api.napster.com/v2.2/tracks/tra.5156528?apikey=ZGNlMzg0ZTYtZjQyYS00NWQ1LWI1OTEtZmVmYzRkZDhlYjAx
+
+
+https://api.napster.com/v2.2/albums/alb.620371123/tracks?apikey=ZGNlMzg0ZTYtZjQyYS00NWQ1LWI1OTEtZmVmYzRkZDhlYjAx
+
+
+http://api.napster.com/v2.2/search?apikey=YTkxZTRhNzAtODdlNy00ZjMzLTg0MWItOTc0NmZmNjU4Yzk4&query=Adept%20Black%20Veins
+
+
